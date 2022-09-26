@@ -30,11 +30,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/cmlooff/Federal-Regulation-Project">
+  <a href="https://github.com/cmlooff/Group-Web-Page">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Christian Looff Project: The Petitionist</h3>
+  <h3 align="center">Team MARCT</h3>
 
   <p align="center">
     Giving easy access for the public to interact with the Regulation Process!
